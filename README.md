@@ -1,0 +1,1 @@
+First project from The Odin Project. It centers around HTML and git knowledge.
